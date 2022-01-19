@@ -1,1 +1,1 @@
-# Vetores-2
+Exercitando a criação de vetores dentro do código com uma sintaxe ao qual se você já souber cada valor que vai ficar em cada índice, fazer a criação do vetor, do objeto e a atribuição dos vetores em uma única linha.
